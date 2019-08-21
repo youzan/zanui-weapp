@@ -10,6 +10,6 @@
 
 ZanUI-WeApp 现已升级为 [Vant Weapp](https://github.com/youzan/vant-weapp)，Vant Weapp 是有赞移动端组件库 Vant 的小程序版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。
 
-本仓库后续进入维护状态，不会再有大的版本更新。建议用户逐渐迁移至 Vant Weapp.
+本仓库不再维护，请移步至 Vant Weapp 仓库.
 
 Vant Weapp 仓库地址: [https://github.com/youzan/vant-weapp](https://github.com/youzan/vant-weapp)
